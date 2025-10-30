@@ -83,3 +83,8 @@ React Query used instead of Redux for simpler caching.
 DND Kit for smooth drag-and-drop.
 
 React Hook Form + Zod ensures type-safe and flexible form validation.
+
+
+📸Screenshot
+<img width="1876" height="839" alt="image" src="https://github.com/user-attachments/assets/36ac0220-c715-4a05-835b-d8d5a5a0718e" />
+
