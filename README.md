@@ -1,8 +1,8 @@
 🧠 TalentFlow – Mini Hiring Platform (Frontend Only)
 
-Live Demo: https://talentflow.vercel.app
+Live Demo: https://talentflow-six-indol.vercel.app
 
-GitHub Repo: https://github.com/your-username/talentflow
+GitHub Repo: https://github.com/BagulVirendra07/Talentflow
 
 
 📋 Project Overview
