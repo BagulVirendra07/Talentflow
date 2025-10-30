@@ -85,6 +85,15 @@ DND Kit for smooth drag-and-drop.
 React Hook Form + Zod ensures type-safe and flexible form validation.
 
 
+🧱 Known Issues
+
+No backend API (mock data used).
+
+Refresh resets candidate data.
+
+Kanban reorder not persisted.
+
+
 📸Screenshot
 
 Jobs Page
