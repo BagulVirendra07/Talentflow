@@ -46,13 +46,15 @@ src/
  ├── index.jsx
 
 
-React + Vite 
+
+✨React + Vite 
 
 React Query for state management
 
 React Hook Form + Zod for validation
 
 DND Kit for Kanban functionality
+
 
 
 ⚙️ Setup Instructions
