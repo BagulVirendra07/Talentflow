@@ -61,7 +61,8 @@ DND Kit for Kanban functionality
 
 Clone the repo
 
-git clone https://github.com/your-username/talentflow.git
+git clone https://github.com/BagulVirendra07/talentflow.git
+
 
 cd talentflow
 
@@ -73,7 +74,7 @@ Run locally
 
 npm run dev
 
-Open http://localhost:5173/ in your browser.
+Open https://talentflow-six-indol.vercel.app/ in your browser.
 
 
 🧩 Technical Decisions
